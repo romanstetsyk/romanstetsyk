@@ -1,4 +1,10 @@
 ### Hi there 👋
+I'm a full-stack software developer with a background in physics and mathematics
+
+Self-motivated, community-taught
+
+Open to collaboration
+
 
 <!--
 **romanstetsyk/romanstetsyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
